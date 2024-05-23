@@ -1,0 +1,9 @@
+# Settings
+*.DotSettings*
+*launchSettings.json
+/testenvironments.json
+*.csproj.user
+
+# Build
+[Bb]in
+[Oo]bj

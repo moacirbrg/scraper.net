@@ -1,0 +1,11 @@
+@AuthServer_HostAddress = http://localhost:5156
+
+GET {{AuthServer_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{AuthServer_HostAddress}}/todos/1
+Accept: application/json
+
+###
