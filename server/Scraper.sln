@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.Repository", "Lib.Repos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServer.Test", "AuthServer.Test\AuthServer.Test.csproj", "{1BD25A0C-9FE9-4D54-B533-A6D3DD31B165}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.Security.Test", "Lib.Security.Test\Lib.Security.Test.csproj", "{13BC8AEB-E4B8-4DC4-B466-46981927A4F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{1BD25A0C-9FE9-4D54-B533-A6D3DD31B165}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BD25A0C-9FE9-4D54-B533-A6D3DD31B165}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BD25A0C-9FE9-4D54-B533-A6D3DD31B165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13BC8AEB-E4B8-4DC4-B466-46981927A4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BC8AEB-E4B8-4DC4-B466-46981927A4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BC8AEB-E4B8-4DC4-B466-46981927A4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BC8AEB-E4B8-4DC4-B466-46981927A4F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
