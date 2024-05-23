@@ -1,4 +1,4 @@
-namespace Lib.Security.Test;
+namespace Lib.Security.Tests;
 
 public class UnitTest1
 {

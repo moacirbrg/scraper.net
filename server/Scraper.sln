@@ -23,9 +23,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.Data", "Lib.Data\Lib.Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.Repository", "Lib.Repository\Lib.Repository.csproj", "{A5CFACF8-CFDD-4A21-A00F-E930C7114B56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServer.Test", "AuthServer.Test\AuthServer.Test.csproj", "{1BD25A0C-9FE9-4D54-B533-A6D3DD31B165}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServer.Tests", "AuthServer.Tests\AuthServer.Tests.csproj", "{1BD25A0C-9FE9-4D54-B533-A6D3DD31B165}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.Security.Test", "Lib.Security.Test\Lib.Security.Test.csproj", "{13BC8AEB-E4B8-4DC4-B466-46981927A4F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.Security.Tests", "Lib.Security.Tests\Lib.Security.Tests.csproj", "{13BC8AEB-E4B8-4DC4-B466-46981927A4F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
